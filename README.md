@@ -1,1 +1,3 @@
-# c30-completo-grupo
+# PiratesInvasionStage-6
+
+adding sounds and score
